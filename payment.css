@@ -1,0 +1,409 @@
+body{
+	background-color:whitesmoke ;
+}
+
+.ga{
+	width: 100%;
+	float: right;
+}
+.kilo{
+	background-color: white;
+	width: 18%;
+	padding: 2px;
+	
+}
+
+div.ank{
+	background-color: green;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 110px;
+	border-radius: 10px;
+}
+div.ank img{
+	width: 15px;
+	margin-left: 10px;
+
+}
+div.kle{
+	margin-left: 50px;
+	margin-top: -35px;
+}
+div.kle a{
+	text-decoration: none;
+	color: black;
+}
+div.ire{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.pet img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.pas{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.pas a{
+	text-decoration: none;
+	color: black;
+}
+div.baba{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.mama img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.iya{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.iya a{
+	text-decoration: none;
+	color: black;
+}
+div.kan{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.ami img{
+	width: 20px;
+	margin-left: 20px;
+}
+div.ipin{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.ipin a{
+	text-decoration: none;
+	color: black;
+}
+div.abe{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.oku img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.ta{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.ta a{
+	text-decoration: none;
+	color: black;
+}
+div.sam{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 180px;
+	border-radius: 10px;
+}
+div.nga img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.dan{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.dan a{
+	text-decoration: none;
+	color: black;
+}
+div.ewon{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+.awom img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.mumi{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.mumi a{
+	text-decoration: none;
+	color: black;
+}
+div.oba{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.ninu img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.orun{
+	margin-left: 50px;
+	margin-top: -40px;
+	font-size: 15px;
+}
+div.orun a{
+	text-decoration: none;
+	color: black;
+}
+div.pert img{
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+}
+div.term {
+	margin-top: -60px;
+	margin-left: 80px;
+	color:black;
+	
+}
+div.lov {
+	margin-top: -20px;
+	margin-left: 70px;
+	color: black;	
+}
+.colla{
+	float: right;
+	width: 15cm;
+	margin-right: 480px;
+	margin-top: 70px;
+}
+.gen{
+	overflow: hidden;
+	width: 15cm;
+	border-style: groove;
+	border-radius: 5px;
+}
+.ser a{
+	text-decoration: none;
+}
+.ce i{
+	width: 20px;
+}
+.card{
+	margin-top: -40px;
+	margin-left: 50px;
+}
+.ju i{
+	width: 20px;
+	color: green;
+}
+.name{
+
+	margin-top: -40px;
+	margin-left: 70px;
+}
+.mku{
+	float: right;
+	margin-top: -50px;
+	margin-right: 310px;
+}
+.bank{
+	float: right;
+	margin-top: -50px;
+	margin-right: 210px;
+}
+.exp{
+	margin-top: -50px;
+	margin-right: 60px;
+	float: right;
+}
+.bg i{
+	width: 20px;
+	color: lightgrey;
+}
+.emma{
+
+	margin-top: -40px;
+	margin-left: 70px;
+}
+.num{
+	float: right;
+	margin-top: -50px;
+	margin-right: 350px;
+}
+.bark{
+	float: right;
+	margin-top: -50px;
+	margin-right: 210px;
+}
+.ri{
+	margin-top: -50px;
+	margin-right: 100px;
+	float: right;
+}
+.gaga{
+	width: 15.2cm;
+}
+.new i{
+	color: lightgrey;
+}
+.new{
+	border-style: groove;
+	border-radius: 5px;
+}
+.tomb{
+	float:right ;
+	margin-top: -285px;
+}
+.alaga{
+	width: 10cm;
+	border-style: groove;
+	border-radius: 5px;
+}
+.rech{
+	overflow: hidden;
+}
+.wool img{
+	width: 20px;
+}
+.war{
+	float:right ;
+	margin-right: 80px;
+	margin-top: -50px;
+
+}
+.wm{
+	float: right;
+	margin-top: -50px;
+	margin-right: 20px;
+}
+.mock{
+	overflow: hidden;
+}
+.hmm img{
+	width: 70px;
+	height: 70px;
+	border-radius: 7px;
+}
+.moon{
+	float:right ;
+	margin-right: 170px;
+	margin-top: -80px;
+
+}
+.cun{
+	float: right;
+	margin-top: -80px;
+	margin-right: 90px;
+}
+.cool{
+	float: right;
+	margin-top: -78px;
+	margin-right: 20px;
+}
+.clo{
+	margin-top: 80px;
+}
+.total{
+	float: right;
+	margin-top: -20px;
+	margin-right: 30px;
+}
+.make button{
+	width: 10cm;
+	height: 40px;
+	border-radius: 5px;
+	margin-top: -50px;
+	background-color: green;
+	color: white;
+}
+
+.timeline-wrapper{
+	display: flex;
+	align-items: center;
+	gap: 70px;
+	margin-top: -600px;
+	margin-left: 570px;
+}
+
+.timeline{
+	display:flex;
+	flex-direction: column;
+	gap: .1rem;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	
+}
+
+
+
+.timeline h4{
+	margin-block: 0;
+}
+
+.timeline .box{
+	height: 28px;
+	width: 28px;
+	border-radius: 50%;
+	border: 1px solid #C9C9C9;
+	display: grid;
+	place-items: center;
+	position: relative;
+	
+}
+
+.timeline .box.active{
+	border-color: black;
+}
+
+
+
+.timeline:not(:last-of-type) .box::before{
+	content: "";
+	position: absolute;
+	left: 100%;
+	width: 100px;
+	height: 2px;
+	background-color: #C9C9C9;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.timeline:not(:last-of-type) .box.active::before{
+	background-color: black;
+}

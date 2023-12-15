@@ -1,0 +1,430 @@
+body{
+	background-color: whitesmoke;
+}
+
+.ga{
+	width: 100%;
+	float:
+}
+.kilo{
+	background-color: white;
+	width: 18%;
+	padding: 2px;
+	
+}
+
+div.ank{
+	background-color: green;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 110px;
+	border-radius: 10px;
+}
+div.ank img{
+	width: 15px;
+	margin-left: 10px;
+
+}
+div.kle{
+	margin-left: 50px;
+	margin-top: -35px;
+}
+div.kle a{
+	text-decoration: none;
+	color: black;
+}
+div.ire{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.pet img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.pas{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.pas a{
+	text-decoration: none;
+	color: black;
+}
+div.baba{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.mama img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.iya{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.iya a{
+	text-decoration: none;
+	color: black;
+}
+div.kan{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.ami img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.ipin{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.ipin a{
+	text-decoration: none;
+	color: black;
+}
+div.abe{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.oku img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.ta{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.ta a{
+	text-decoration: none;
+	color: black;
+}
+div.sam{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 180px;
+	border-radius: 10px;
+}
+div.nga img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.dan{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.dan a{
+	text-decoration: none;
+	color: black;
+}
+div.ewon{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 5px;
+	border-radius: 10px;
+}
+.awom img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.mumi{
+	margin-left: 50px;
+	margin-top: -40px;
+}
+div.mumi a{
+	text-decoration: none;
+	color: black;
+}
+div.oba{
+	background-color: whitesmoke;
+	width: 200px;
+	height: 20px;
+	padding: 1px;
+	margin-left: 10px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+div.ninu img{
+	width: 20px;
+	margin-left: 20px;
+
+}
+div.orun{
+	margin-left: 50px;
+	margin-top: -40px;
+	font-size: 15px;
+}
+div.orun a{
+	text-decoration: none;
+	color: black;
+}
+div.pert img{
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+}
+div.term {
+	margin-top: -60px;
+	margin-left: 80px;
+	color:black;
+	
+}
+div.lov {
+	margin-top: -20px;
+	margin-left: 70px;
+	color: black;	
+}
+
+.super{
+	margin-top: -620px;
+}
+div.want{
+	margin-left: 400px;
+	border-radius: 6px;
+	border-style: groove;
+	width: 12cm;
+}
+div.want input{
+	border: white;
+	border-color: white;
+	width: 10cm;
+
+}
+.want button{
+	border: none;
+	margin-right: 20px;
+	color: grey;
+}
+.dropbtn {
+  color: green;
+  padding: 6px;
+  font-size: 7px;
+  border: none;
+  cursor: pointer;
+  margin-left: 7cm;
+  
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 24cm;
+  margin-top: -60px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  padding: px;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+.dropdown-content{
+	line-height: 10px;
+}
+.dropdown-content button{
+	width: 130px;
+	color: green;
+	border-color: green;
+	margin-left: 15px;
+}
+.igba{
+	margin-top: 40px;
+	margin-left: 20px;
+}
+.here{
+	margin-left: 320px;
+}
+.arrow{
+	width: 25%;
+	margin-left: 320px;
+	margin-top: -5px;
+	border-style: groove;
+	border-color: ;
+}
+.igba{
+	margin-top: -20px;
+	margin-left: 8.7cm;
+
+}
+.here a{
+	text-decoration: none;
+}
+.bad img{
+	width: 8.8cm;
+	height: 100px;
+	margin-top: -1px;
+}
+.ama{
+	background-color: limegreen;
+	height: 80px;
+	margin-top: -20px;
+}
+.zon i{
+   color: blue;
+   margin-left: 5px;
+
+
+}
+.lat i{
+	float: right;
+	margin-right: 40px;
+	margin-top: -80px;
+	color: green;
+}
+.ali h6{
+	margin-left: 260px;
+	margin-top: -50px;
+	
+}
+.dov{
+	width: 25%;
+	border-style: black;
+	margin-left: 320px;
+	border-style: groove;
+	margin-top: 10px;
+	border-color: whitesmoke;
+}
+.hr{
+	width: 9cm;
+	margin-left: px;
+	margin-top: -22px;
+}
+.tho{
+	height: 60px;
+	margin-top: 10px;
+}
+
+.tho ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.tho img{
+	width: 20px;
+}
+.tho li{
+	float: left;
+	margin-left: 4px;
+}
+.tho li{
+	display: block;
+    text-decoration: none;
+    padding: 5px;
+}
+.ari hr{
+	margin-top: -25px;
+}
+.ari{
+	margin-top: -30px;
+}
+.ari h6{
+
+	border: lightcyan;
+	background-color: white;
+}
+.ari{
+	margin-left: px;
+}
+.ari li{
+	display: block;
+
+
+
+}
+.ari img{
+    width: 15px;
+}
+
+.ise button{
+    width: 7cm;
+    height: 30px;
+    margin-left: 40px;
+    background-color: green;
+    color: white;
+}
+.block{
+	margin-top: -800px;
+}
+.jack img{
+	width: 30px;
+	height: 30px;
+	border-radius: 50px;
+	float: right;
+	margin-top: -360px;
+}
+.note{
+	margin-top: -355px;
+}
+.note{
+	margin-right: 40px;
+	float: right;
+}
+.note a{
+	text-decoration: none;
+	color: black;
+	background-color: white;
+	
+}
+.note button{
+	
+}
+.site{
+	margin-top: -320px;
+	float: right;
+}
+.site button{
+	margin-right: 30px;
+}
+.fig{
+	float: right;
+	margin-top: -250px;
+}
+.fig iframe{
+	border: none;
+}

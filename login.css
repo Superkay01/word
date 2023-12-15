@@ -1,0 +1,173 @@
+body{
+	background-color: white;
+}
+.ter{
+	overflow: hidden;
+	margin-right: 80px;
+}
+div.enter{
+	float: right;
+	margin-top: 3cm;
+}
+div.acc a {
+	text-decoration: none;
+	color: green;
+	margin-left: 20px;
+	
+}
+div.mall input{
+	width: 13cm;
+	height: 33px;
+	border-radius: 10px;
+
+}
+div.mall button{
+	width: 13cm;
+	height: 33px;
+	border-radius: 10px;
+	background-color: green;
+}
+div.mall a {
+	text-decoration: none;
+	color: white;
+}
+.eni {
+
+}
+div.may{
+    overflow:hidden;
+}
+div.face button{
+	margin-left: px;
+	border-radius: 7px;
+	margin-top: 20px;
+}
+div.face a{
+	text-decoration: none;
+	padding: 5px;
+	color: red;
+
+}
+div.twe{
+	float:right;
+	margin-top: -20px;
+}
+div.twe button{
+	border-radius: 7px;
+
+}
+div.twe a{
+	text-decoration: none;
+	padding: 5px;
+	color: blue;
+}
+div.container{
+	background-color: black;
+	width: 50%;
+	border-radius: 6px;
+	padding: 8px;
+}
+.ete input{
+	margin-top: 1.7cm;
+	width: 88%;
+	border-radius: 10px;
+	padding: 1px;
+}
+.dake a{
+	text-decoration: none;
+	color: white;
+}
+
+.we input{
+	width: 58%;
+	border-radius: 10px;
+	padding: 1px;
+}
+.to input{
+	width: 30%;
+	border-radius: 10px;
+	padding: 1px;
+}
+.do input{
+	width: 60%;
+	border-radius: 10px;
+	padding: px;
+}
+div.not{
+	margin-top: 30px;
+}
+.pure input{
+	width: 78%;
+	height: 8px;
+	border-radius: 10px;
+}
+.war input{
+	width: 50%;
+	height: 8px;
+	border-radius: 10px;
+}
+.car input{
+	width: 64%;
+	height: 8px;
+	border-radius: 10px;
+}
+div.basket{
+	background-color:grey;
+	margin-top: 140px;
+	padding: 15px;
+	border-radius: 10px;
+}
+.fit input{
+	width: 88%;
+	height: 8px;
+	border-radius: 10px;
+}
+.nit input{
+	width: 40%;
+	height: 8px;
+	border-radius: 10px;
+}
+.kit input{
+	width: 45%;
+	height: 8px;
+	border-radius: 10px;
+}
+.it input{
+	width: 60%;
+	height: 8px;
+	border-radius: 10px;
+}
+.lit input{
+	width: 35%;
+	height: 8px;
+	border-radius: 10px;
+}
+.pit input{
+	width: 30%;
+	height: 10px;
+	border-radius: 10px;
+	padding: 2px;
+	margin-bottom: 5px;
+}
+div.pis img{
+	width: 50px;
+	height: 50px;
+	border-radius: 100px;
+}
+div.min input{
+	float: right;
+	margin-top: -60px;
+	border-radius: 10px;
+	width: 50%;
+	margin-right: 240px;
+	height: 8px;
+}
+div.mil input{
+	float: right;
+	margin-top: -40px;
+	border-radius: 10px;
+	width: 30%;
+	margin-right: 360px;
+	height: 8px;
+}
+
